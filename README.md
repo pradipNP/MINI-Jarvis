@@ -11,3 +11,25 @@ A Python-based voice assistant project with speech recognition, music playback, 
 1. Clone the repository:
    ```bash
    git clone https://github.com/pradipNP/MINI-Jarvis
+
+2. Create and activate virtual environment:
+   ```bash
+   python -m venv .venv
+   .\.venv\Scripts\activate
+
+3. Install dependencies
+   pip install -r requirements.txt
+   
+---
+
+### 2️⃣ “Usage”
+
+Also **instructions for users**, not commands to run right now (unless you want to test your project). In README:
+
+```markdown
+## Usage
+python main.py
+
+
+
+   
