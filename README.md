@@ -20,16 +20,6 @@ A Python-based voice assistant project with speech recognition, music playback, 
 3. Install dependencies
    pip install -r requirements.txt
    
----
-
-### 2️⃣ “Usage”
-
-Also **instructions for users**, not commands to run right now (unless you want to test your project). In README:
-
-```markdown
-## Usage
-python main.py
-
 
 
    
