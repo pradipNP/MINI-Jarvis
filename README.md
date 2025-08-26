@@ -18,7 +18,9 @@ A Python-based voice assistant project with speech recognition, music playback, 
    .\.venv\Scripts\activate
 
 3. Install dependencies
+   ```bash
    pip install -r requirements.txt
+   
    
 
 
